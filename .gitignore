@@ -1,1 +1,7 @@
 chromedriver.exe
+error_txt.txt
+debug.log
+Test.ipynb
+hold
+.ipynb_checkpoints
+__pycache__
